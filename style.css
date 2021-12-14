@@ -45,7 +45,7 @@ body {
     font-size: 1em;
     color: #eee;
     background-color: #383838;
-    background-image: url("/img/bg.png")
+    background-image: url("bg.png")
 }
 h2 {
     text-transform: uppercase;
@@ -62,7 +62,7 @@ h2 {
     height: 500px;
     position: relative;
     margin: 50px auto;
-    background-image: url("/img/concert-map.svg");
+    background-image: url("concert-map.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -300px;
